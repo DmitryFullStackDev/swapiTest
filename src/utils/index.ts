@@ -1,0 +1,5 @@
+export * from './request'
+export * from './numberOfActiveFiltersFn/numberOfActiveFiltersFn'
+export * from './getStyles/getStyles'
+export * from './filtratedHeroesFn/filtratedHeroesFn'
+export * from './getGridTemplateColumns/getGridTemplateColumns'
