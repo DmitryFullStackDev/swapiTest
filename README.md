@@ -1,6 +1,6 @@
 # 🌌 swapiTest
 
-**swapiTest** is a modern web application that interfaces with the [Star Wars API (SWAPI)](https://swapi.dev/), allowing users to explore data from the Star Wars universe. Built with TypeScript and JavaScript, and bundled using Webpack, this project emphasizes performance and scalability.
+**swapiTest** is a modern web application that interfaces with the [Star Wars API (SWAPI)](https://swapi.py4e.com/api/), allowing users to explore data from the Star Wars universe. Built with TypeScript and JavaScript, and bundled using Webpack, this project emphasizes performance and scalability.
 
 🔗 **Live Demo**: [swapi-test-pied.vercel.app](https://swapi-test-pied.vercel.app)
 
